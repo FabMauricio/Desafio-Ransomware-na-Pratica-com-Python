@@ -46,10 +46,3 @@ Control x
 --- ls
 
 fim do exercício....
-
-
-7 verificar os arquivos que estão dentro da pasta
---- ls
-
-8 criptografar o arquivo
---- python encrypter.py
