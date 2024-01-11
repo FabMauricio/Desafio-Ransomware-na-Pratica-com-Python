@@ -19,3 +19,6 @@ https://github.com/cassiano-dio/cibersecurity-desafio-ransomware
 --- $ nano Arquivo
 
 5 
+
+instalar a biblioteca pyaes
+--- pip install pyaes
