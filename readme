@@ -30,6 +30,24 @@ Control x
 6 instalar a biblioteca pyaes
 --- pip install pyaes
 
+7 
+--- clear
+
+8 criptografar o arquivo
+--- python encrypter.py
+
+9 ver o arquivo criptografado
+--- ls
+
+10 desincriptografar
+--- python decrypter.py
+
+11 ver o arquivo descriptografado
+--- ls
+
+fim do exercício....
+
+
 7 verificar os arquivos que estão dentro da pasta
 --- ls
 
