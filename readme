@@ -1,10 +1,10 @@
 Realizar um exercicio de criptografia e descriptografia em pyton.
 
-O passo a passo do exercicio esta disponivel em:
+1 passo a passo do codigo do exercicio esta disponivel em:
 
 https://github.com/cassiano-dio/cibersecurity-desafio-ransomware
 
-1 Criar uma pasta DesafioRansomware
+2 Criar uma pasta DesafioRansomware
  --- mkdir DesafioRansomware
 
 2 Abrir a pasta DesafioRansomware
@@ -16,9 +16,22 @@ https://github.com/cassiano-dio/cibersecurity-desafio-ransomware
 --- control + d finaliza a edição do arquivo...
 
 4 Iniciar o Nano - editor
---- $ nano Arquivo
+--- $ nano decrypter.py
+digitar o codigo do item 1
+control D + enter
+Control x
 
-5 
+5 Iniciar o Nano - editor
+--- $ nano encrypter.py
+digitar o codigo do item 1
+control D + enter
+Control x
 
-instalar a biblioteca pyaes
+6 instalar a biblioteca pyaes
 --- pip install pyaes
+
+7 verificar os arquivos que estão dentro da pasta
+--- ls
+
+8 criptografar o arquivo
+--- python encrypter.py
