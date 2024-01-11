@@ -3,3 +3,19 @@ Realizar um exercicio de criptografia e descriptografia em pyton.
 O passo a passo do exercicio esta disponivel em:
 
 https://github.com/cassiano-dio/cibersecurity-desafio-ransomware
+
+1 Criar uma pasta DesafioRansomware
+ --- mkdir DesafioRansomware
+
+2 Abrir a pasta DesafioRansomware
+--- cd DesafioRansomware
+
+3 criar arquivo teste.txt
+--- set > teste.txt
+--- Digita o que for necessário dentro do arquivo.
+--- control + d finaliza a edição do arquivo...
+
+4 Iniciar o Nano - editor
+--- $ nano Arquivo
+
+5 
